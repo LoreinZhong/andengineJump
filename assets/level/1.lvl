@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1800" height="780">	
+	<entity x="200" y="58" type="floor"/>
+	<entity x="600" y="116" type="floor"/>
+	<entity x="1000" y="58" type="floor"/>
+	
+	
+	<entity x="200" y="100" type="coin"/>
+	<entity x="400" y="100" type="coin"/>
+	<entity x="600" y="125" type="coin"/>
+	<entity x="900" y="125" type="coin"/>
+	<entity x="1200" y="100" type="coin"/>
+	<entity x="1400" y="150" type="coin"/>
+	<entity x="1600" y="120" type="coin"/>
+	<entity x="60" y="64" type="player"/>
+</level>
